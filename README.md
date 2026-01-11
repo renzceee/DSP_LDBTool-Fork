@@ -1,3 +1,4 @@
+#What changed?
 ### v3.0.3 DarkFog
 - Fixed `FileNotFoundException: UnityEngine.InputLegacyModule` by replacing dependency with `UnityEngine.IMGUIModule` and `UnityEngine.UI` and using local game references.
 - Fixed `ItemProto.index` assignment (now read-only) using Reflection.
@@ -30,3 +31,4 @@ Unzip mod arhive into `Dyson Sphere Program/BepInEx/plugins/LDBTool/`. (Create f
 
 ## Feedback and Bug Report
 Feel free to contact me via Discord (Kremnev8#3756) for any feedback, bug-reports or suggestions.
+
